@@ -68,11 +68,13 @@ python centsation.py
 ```
 
 ## 🖼️ Screenshots
-1. **SignIn/ SignUp page**
-     <img src="Images/home.png" alt="SignIn/SignUp Page" width="300">
+1. **SignIn/ SignUp page**  
+   <img src="Images/home.png" alt="SignIn/SignUp Page" width="300">  
+   SignIn/ SignUp page
 
-2. **SignIn page**
-    <img src="Images/signin_page.png" alt="SignIn Page" width="300">
+2. **SignIn page**  
+   <img src="Images/signin_page.png" alt="SignIn Page" width="300">  
+   SignIn page
 
 2. **Home page (For new User)**
     ![alt text](Images/home_screen.png)
